@@ -1,7 +1,7 @@
 streamlit==1.26.0
-haystack==2.0.0
-chromadb==0.4.0
-google-ai-generativelanguage==0.2.0
+haystack==1.20.0
+chromadb==0.4.6
+google-generativeai==0.1.0
 python-dotenv==1.0.0
 transformers==4.35.0
 torch==2.1.0
